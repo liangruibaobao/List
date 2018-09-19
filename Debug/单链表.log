@@ -1,0 +1,7 @@
+﻿  test.c
+i:\class39\c作业\list\单链表\test.c(58): warning C4013: “Merge”未定义；假设外部返回 int
+i:\class39\c作业\list\单链表\test.c(81): warning C4013: “DelTailK”未定义；假设外部返回 int
+i:\class39\c作业\list\单链表\test.c(87): warning C4013: “InitCN”未定义；假设外部返回 int
+  相交于环.c
+  正在生成代码...
+  单链表.vcxproj -> I:\Class39\C作业\List\Debug\单链表.exe
